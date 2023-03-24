@@ -30,7 +30,7 @@ Step 2: Install Jupyter Notebook with this command
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Kali-Linux-Network-Error-Fix/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AnandKatariya/Kali-Linux-Jupyter-Notebook-Installation/issues).
 
 ## Show your support
 
